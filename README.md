@@ -1,3 +1,11 @@
 # Analog-clock
 
-This is a analog clock using html, css and javaScript Take a look
+ This is analog clock using light HTML CSS and JS for excercise - [Take a look](https://github.com/Kartikey1902/Analog-clock)
+
+## What it is
+
+A basic warmup exercise. Simple, practice oriented, a Analog-clock. Built with:
+
+- HTML
+- CSS
+- JavaScript
